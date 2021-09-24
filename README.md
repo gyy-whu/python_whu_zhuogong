@@ -1,0 +1,2 @@
+#python_whu_zhuogong
+这是武大电信第三学期python设计基础的项目，本人新手，第一次使用python，任务就是爬取网站的资料（包括文字和图片）
